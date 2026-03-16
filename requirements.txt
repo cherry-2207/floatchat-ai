@@ -2,3 +2,7 @@ netCDF4>=1.6.0
 pymongo>=4.6.0
 numpy>=1.24.0
 tqdm>=4.65.0
+
+# Phase 2: Vector DB + Embeddings
+chromadb>=0.4.0
+sentence-transformers>=2.2.0
